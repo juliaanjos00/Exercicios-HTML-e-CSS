@@ -1,0 +1,29 @@
+:root {
+    --color-primare: rgba(181, 248, 245, 0.5);
+    --devcode: rgb(65, 182, 65);
+    --font-padrao: 10px; 
+}
+
+.menu{
+   height: 100px;
+   width: 100%;
+   background-color: var(--color-primare);
+}
+
+.botoes {
+   margin-top: 10px;
+   display: flex;
+   gap: 10px; 
+}
+
+.bnt-01{
+    height: 50px;
+    width: 100px;
+    background-color: var(--devcode);
+}
+
+.bnt-02{
+    height: 50px;
+    width: 100px;
+    background-color: var(--color-primare);
+}
