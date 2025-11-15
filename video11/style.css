@@ -1,0 +1,46 @@
+.botoes{
+    width: 500px;
+    border: 2px solid black;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center000;
+    padding: 20px;
+}
+
+.botao-padrao{
+    width: 250px;
+    height: 50px;
+    background-color: rgb(215, 250, 245);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Courier New';
+    font-size: small;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.botao01-hover{
+    background-color: #338ef5;
+    border: 0.1px solid red;
+    transition: 1s;
+}
+
+.botao02-hover {
+    width: 235px;
+    transition: 1s;
+}
+
+.botao03-hover{
+    box-shadow: 2px 5px 15px rgb(0, 81, 255);
+    transition: 0.5s-;
+
+}
+
+.botao04-hover{
+    width: 260px;
+    height: 55px;
+    transition: 0.3s;
+}
