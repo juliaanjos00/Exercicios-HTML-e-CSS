@@ -1,0 +1,31 @@
+.primeira-div{
+    background-color: rgb(66, 105, 189);
+    height: 30px;
+}
+
+.segunda-div{
+    background-color: rgb(143, 159, 235);
+    height: 30px;
+}
+
+.primeiro-link{
+    background-color:rgb(181, 123, 235)
+}
+
+strong{
+    background-color: rgb(226, 215, 236);
+}
+
+.terceira-div{
+    background-color: darkblue;
+    height: 30px;
+    width: 300px;
+    display: inline-block;
+}
+
+.quarta-div{
+    background-color: darkorchid;
+    height: 30px;
+    width: 300px;
+    display: inline-block;
+}
